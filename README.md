@@ -10,7 +10,7 @@ Change detection (CD) is essential to the accurate understanding of land surface
 
 ## Citation
 Please cite our paper if you find it useful for your research.
-
+```
 @article{peng2019end,
   title={End-to-End Change Detection for High Resolution Satellite Images Using Improved UNet++},
   author={Peng, Daifeng and Zhang, Yongjun and Guan, Haiyan},
@@ -21,3 +21,4 @@ Please cite our paper if you find it useful for your research.
   year={2019},
   publisher={Multidisciplinary Digital Publishing Institute}
 }
+```
